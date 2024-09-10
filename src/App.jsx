@@ -41,8 +41,8 @@ const App = () => {
     <KindeProvider
       clientId="066714f5d95848428e654f35b49818fc"
       domain="https://akshaisass.kinde.com"
-      redirectUri="http://localhost:5173"
-      logoutUri="http://localhost:5173"
+      redirectUri="https://gemini-clone-chi-one.vercel.app/"
+      logoutUri="https://gemini-clone-chi-one.vercel.app/"
     >
       <div className="h-screen flex font-poppins">
         <ChatSidebar />
